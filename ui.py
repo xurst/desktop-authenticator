@@ -257,8 +257,8 @@ class AuthenticatorUI(QMainWindow):
         time_remaining = self.logic.get_time_remaining()
         current_progress = int((time_remaining / 30) * 100)
 
-        if current_progress > self.last_progress_value:  # New period started
-            self._start_progress_animation(0, 100, 100)  # Quick reset animation
+        if current_progress > self.last_progress_value:
+            self._start_progress_animation(0, 100, 100)
         else:
             self._start_progress_animation(self.last_progress_value, current_progress, 50)
 
