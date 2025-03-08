@@ -1,4 +1,4 @@
-a very ugly desktop authenticator i made in 5 minutes. might be discontinuing this when i get bitwarden premium.
+a very cool desktop authenticator i made in 5 minutes. might be discontinuing this when i get bitwarden premium.
 
 how to use:
 
