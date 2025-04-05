@@ -1,4 +1,4 @@
-a very ugly desktop authenticator i made in 5 minutes. might be discontinuing this when i get bitwarden premium.
+a very cool desktop authenticator i made in 5 minutes. might be discontinuing this when i get bitwarden premium.
 
 how to use:
 
@@ -9,4 +9,4 @@ how to use:
 4. open `main.py` to run the program.
 5. enjoy
 
-![alt text](https://media.discordapp.net/attachments/1204435079741448275/1325732274238656542/image.png?ex=677cdbe5&is=677b8a65&hm=be27840556a99cb4452bd95644a12333331ff84ae3703abf3c178ae934ba1cb8&=&format=webp&quality=lossless&width=365&height=671)
+![alt text](https://i.imgur.com/lbArYs2.png)
