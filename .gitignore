@@ -1,4 +1,3 @@
-# sensitive
 auth_secrets.json
-
 .idea/
+__pycache__
