@@ -1,4 +1,3 @@
-# main.py
 import sys
 from ui import run_app
 from logic import AuthenticatorLogic

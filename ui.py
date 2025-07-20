@@ -1,4 +1,3 @@
-# ui.py
 from PyQt6.QtWidgets import (QMainWindow, QApplication, QWidget, QVBoxLayout,
                              QHBoxLayout, QLabel, QLineEdit, QPushButton, QTreeWidget,
                              QTreeWidgetItem, QProgressBar, QMessageBox, QGroupBox)

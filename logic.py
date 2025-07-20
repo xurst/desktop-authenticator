@@ -1,4 +1,3 @@
-# logic.py
 import json
 import pyotp
 import time
